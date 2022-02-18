@@ -1,1 +1,1 @@
-# HomeAutomatization
+Mjerenje temperature prostorije
